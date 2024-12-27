@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<active-app>
+	<app id="779845" type="appl" version="12.6.9" ui-location="home">Live TV Input</app>
+</active-app>

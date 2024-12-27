@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv-channel>
+	<channel>
+		<channel-id>11.2</channel-id>
+		<broadcast-network-id>1</broadcast-network-id>
+		<number>11.2</number>
+		<name>ELII-DT</name>
+		<type>air-digital</type>
+		<user-hidden>false</user-hidden>
+		<user-favorite>true</user-favorite>
+		<physical-channel>11</physical-channel>
+		<physical-frequency>201000</physical-frequency>
+		<signal-standard>ATSC-T-8VSB</signal-standard>
+		<active-input>false</active-input>
+		<signal-state>n/a</signal-state>
+		<signal-mode>n/a</signal-mode>
+		<signal-quality>n/a</signal-quality>
+		<signal-strength>n/a</signal-strength>
+		<signal-stalled-pts-cnt>n/a</signal-stalled-pts-cnt>
+		<program-title />
+		<program-description />
+		<program-ratings>Unrated</program-ratings>
+		<program-is-blocked>false</program-is-blocked>
+		<program-analog-audio>none</program-analog-audio>
+		<program-digital-audio>none</program-digital-audio>
+		<program-audio-languages>n/a</program-audio-languages>
+		<program-audio-formats>NONE</program-audio-formats>
+		<program-audio-language>n/a</program-audio-language>
+		<program-audio-format>NONE</program-audio-format>
+		<program-has-cc>false</program-has-cc>
+	</channel>
+</tv-channel>

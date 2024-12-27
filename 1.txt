@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<apps>
+	<app id="tvinput.dtv" type="tvin" version="1.0.0">Live TV</app>
+	<app id="tvinput.hdmi1" type="tvin" version="1.0.0">HDMI 1</app>
+	<app id="tvinput.hdmi2" type="tvin" version="1.0.0">HDMI 2</app>
+	<app id="tvinput.hdmi3" type="tvin" version="1.0.0">HDMI 3 (ARC)</app>
+	<app id="tvinput.cvbs" type="tvin" version="1.0.0">AV</app>
+	<app id="660807" type="appl" version="3.5.88">Roku Cameras</app>
+	<app id="837" type="appl" version="2.24.236">YouTube</app>
+	<app id="12" type="appl" version="5.2.130088002">Netflix</app>
+	<app id="13" type="appl" version="15.3.2024111414">Prime Video</app>
+	<app id="615685" type="appl" version="1.2.1931">Freevee</app>
+	<app id="41468" type="appl" version="3.4.2">Tubi - Free Movies &amp; TV</app>
+	<app id="22297" type="appl" version="2.11.67">Spotify Music</app>
+	<app id="291097" type="appl" version="1.47.2024111200">Disney Plus</app>
+	<app id="28" type="appl" version="7.3.20">Pandora</app>
+	<app id="291619" type="appl" version="1.0.1">LaMusica</app>
+	<app id="2213" type="appl" version="5.5.13">Roku Media Player</app>
+	<app id="2285" type="appl" version="6.89.2">Hulu</app>
+	<app id="61322" type="appl" version="58.2.2">Max</app>
+	<app id="593099" type="appl" version="5.12.22">Peacock TV</app>
+	<app id="151908" type="appl" version="12.5.18">The Roku Channel</app>
+	<app id="606242" type="appl" version="12.5.18">Kids &amp; Family on The Roku Channel</app>
+	<app id="13842" type="appl" version="1.2.29">Fandango at Home</app>
+	<app id="45437" type="appl" version="2.4.1443">FilmRise</app>
+	<app id="551012" type="appl" version="15.0.66">Apple TV</app>
+	<app id="45706" type="appl" version="1.0.60">Roku TV Intro</app>
+	<app id="2099" type="appl" version="3.2.1">Video Poker</app>
+	<app id="150902" type="appl" version="2.10.12">Mirror for Roku - Screen Mirroring</app>
+	<app id="13535" type="appl" version="7.29.15">Plex - Free Movies &amp; TV</app>
+	<app id="230046" type="appl" version="3.1.0">Les Feldick Through the Bible</app>
+	<app id="88268" type="appl" version="2.17.1370">FilmRise Español</app>
+	<app id="20445" type="appl" version="10.0.476">Vevo: Music Videos and Live Channels</app>
+	<app id="271873" type="appl" version="7.0.0">Bon Appétit</app>
+	<app id="74519" type="appl" version="5.39.6">Pluto TV - Free Movies/Shows</app>
+	<app id="111255" type="appl" version="5.10.1">The CW</app>
+	<app id="96065" type="appl" version="4.1.10">Xumo Play</app>
+	<app id="278972" type="appl" version="1.9.13">Generous 777 Slots</app>
+	<app id="110223" type="appl" version="1.1.1">Casino Channel</app>
+	<app id="35059" type="appl" version="5.52.0">HISTORY</app>
+	<app id="75151" type="appl" version="9.12.0">USA Network</app>
+	<app id="68669" type="appl" version="9.12.0">NBC</app>
+	<app id="637097" type="appl" version="1.57.1994980048">Roku Photo Streams</app>
+	<app id="95307" type="appl" version="4.7.1577">FOX Sports</app>
+	<app id="17112" type="appl" version="11.0.15">CBS Sports Stream &amp; Watch Live</app>
+	<app id="154157" type="appl" version="8.7.0">Watch TNT</app>
+	<app id="2251" type="appl" version="2.0.0">CNET</app>
+	<app id="65978" type="appl" version="3.5.3836">CNN</app>
+	<app id="43465" type="appl" version="5.9.1">Fubo: Watch Live TV &amp; Sports</app>
+	<app id="619667" type="appl" version="9.0.20240814">CBS</app>
+	<app id="260058" type="appl" version="1.0.3">Castie for Roku</app>
+	<app id="630308" type="appl" version="2.1.4">Video Poker Deluxe</app>
+	<app id="2016" type="appl" version="1.0.2">Crackle</app>
+	<app id="46041" type="appl" version="8.140.18199">Sling TV - Live Sports, News, Shows + Freestream</app>
+	<app id="1453" type="appl" version="2.5.3">TuneIn</app>
+	<app id="656435" type="appl" version="7.5.1">Chicken Soup for the Soul</app>
+	<app id="593290" type="appl" version="3.54.1">discovery+ | Stream TV Shows</app>
+	<app id="32614" type="appl" version="4.3.1443">HappyKids - Kids TV Shows and Movies</app>
+	<app id="261472" type="appl" version="208.0.1361">MGM+</app>
+	<app id="637193" type="appl" version="15.0.66">Apple Music</app>
+	<app id="636527" type="appl" version="1.5.6">AMC+</app>
+	<app id="14" type="appl" version="8.9.7">MLB</app>
+	<app id="96041" type="appl" version="7.11.3">Discovery GO</app>
+	<app id="2595" type="appl" version="5.13.3241334188">Crunchyroll</app>
+	<app id="75619" type="appl" version="7.11.3">HGTV GO</app>
+	<app id="298229" type="appl" version="4.22.273">Frndly TV</app>
+	<app id="23048" type="appl" version="13.9.0">Spectrum TV</app>
+	<app id="75617" type="appl" version="7.11.3">Food Network GO</app>
+	<app id="23333" type="appl" version="6.5.0">PBS KIDS</app>
+	<app id="97955" type="appl" version="6.18.0">Local Now</app>
+	<app id="196460" type="appl" version="3.20.6">Philo</app>
+	<app id="623184" type="appl" version="1.0.2">YES Network</app>
+	<app id="253232" type="appl" version="8.802.1">Dropout</app>
+	<app id="172665" type="appl" version="2.9.1">Haystack Local &amp; World News</app>
+	<app id="48630" type="appl" version="8.7.1443">Fawesome - Free Movies and TV Shows</app>
+	<app id="143088" type="appl" version="3.114.1">BritBox</app>
+	<app id="283162" type="appl" version="2.20.0">Freebie TV Free Movies &amp; TV</app>
+	<app id="715493" type="appl" version="6.3.7">FreeMovie Browser Like Chrome</app>
+	<app id="86308" type="appl" version="9.12.0">E!</app>
+	<app id="73347" type="appl" version="1.11.1360">Action Movies &amp; TV by Fawesome</app>
+	<app id="553278" type="appl" version="1.0.0">CCX Media</app>
+	<app id="44856" type="appl" version="5.0.75">NFL</app>
+	<app id="195316" type="appl" version="2.24.95">YouTube TV</app>
+	<app id="620906" type="appl" version="10.1.10">Live TV on The Roku Channel</app>
+	<app id="292538" type="appl" version="2.0.42">SlotsTV</app>
+	<app id="630463" type="appl" version="1.6.1">Flame Slots</app>
+	<app id="649523" type="appl" version="1.9.13">Crazino TV Video Slots</app>
+	<app id="68020" type="appl" version="5.52.0">Lifetime Movie Club</app>
+	<app id="573804" type="appl" version="3.8.3">Univision</app>
+	<app id="584171" type="appl" version="16.0.27">Canela.TV</app>
+	<app id="773622" type="appl" version="1.15.2759740094">Backdrops</app>
+	<app id="552828" type="appl" version="4.32.20241216">ViX: TV, Deportes y Noticias</app>
+	<app id="633020" type="appl" version="1.1.1">TVCast</app>
+	<app id="73249" type="appl" version="6.2.0">NBA</app>
+</apps>
